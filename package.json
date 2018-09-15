@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Mern Demo",
   "main": "server.js",
+  "homepage": "http://tghazal.github.io/NYTReactApp",
   "engines": {
     "node": "8.9.4"
   },
@@ -20,6 +21,7 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^3.5.0",
+    "gh-pages": "^1.2.0",
     "nodemon": "^1.11.0"
   },
   "dependencies": {
