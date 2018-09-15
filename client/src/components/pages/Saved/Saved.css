@@ -1,0 +1,9 @@
+.parentPosition
+{
+position:relative;
+}
+.position{
+    position:absolute;
+    right:10px;
+
+}

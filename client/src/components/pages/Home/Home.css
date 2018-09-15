@@ -1,0 +1,32 @@
+.card{
+    margin-bottom: 5%;
+}
+
+.card-header{
+    background-color:#732c7b;
+    color: rgb(255, 255, 255);
+    font-size: 15pt;
+    font-family: 'Homemade Apple', cursive;
+
+}
+
+.card-body{
+    background-color: #bdaec6;
+    color:#732c7b;
+    font-size: 15pt;
+    font-family: 'Homemade Apple', cursive;
+}
+
+ul{
+    list-style-type:none
+}
+
+.parentPosition
+{
+position:relative;
+}
+.position{
+    position:absolute;
+    right:10px;
+
+}

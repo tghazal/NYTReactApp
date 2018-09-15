@@ -1,0 +1,11 @@
+.card{
+    margin-bottom: 5%;
+}
+
+.card-header{
+    background-color:#800080;
+    color: rgb(255, 255, 255);
+    font-size: 15pt;
+    font-family: 'Homemade Apple', cursive;
+
+}
