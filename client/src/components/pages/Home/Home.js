@@ -75,9 +75,9 @@ class Home extends Component {
                     <div className="col-md-9 mx-auto   mt-2">
                   
                         <div className="card">
-                            <div className="card-header parentPosition" >
+                            <div className="card-header tet-center" >
                                 Search Parameters
-                                <Link className="text-light  text-right ml-5 position" to="/saved">Click to see Saved Articles</Link>
+                                
                              </div>
                             <h5 className="card-title"></h5>
                             <div className="card-body">
@@ -113,8 +113,9 @@ class Home extends Component {
                 <div className="row mx-auto ">
                     <div className="col-md-9 mx-auto     mt-2">
                         <div className="card">
-                            <div className="card-header text-center">
+                            <div className="card-header parentPosition">
                                 Articles
+                                <Link className="text-light  text-right ml-5 position" to="/saved">Click to see Saved Articles</Link>
                             </div>
                              
                             <div className="card-body text">
