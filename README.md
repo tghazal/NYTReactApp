@@ -18,12 +18,12 @@ To view the site as deployed on Heroku, you can visit [here](https://sheltered-s
 
 If you would like to run the site locally,  follow the steps below:
 
-If you have not set up MongoDB to run as a service, run mongod in a terminal window. Leave this window running and open a new window.
-Clone this repository to your machine with git clone 
-Navigate to the cloned directory.
-Run yarn install to install required packages and dependencies.
-Run yarn start
-The application will be running at localhost:3000/.
+* If you have not set up MongoDB to run as a service, run mongod in a terminal window. Leave this window running and open a new window.
+* Clone this repository to your machine with git clone 
+* Navigate to the cloned directory.
+* Run yarn install to install required packages and dependencies.
+* Run yarn start
+* The application will be running at localhost:3000/.
 
 
 
