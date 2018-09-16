@@ -1,29 +1,34 @@
-# Create React Express App
+# React NYTimes App
 
-## About This Boilerplate
+## About ThisApp
+Full stack Application using React for searching articles from New York Times API's, And save them, with the ability to Show saved articles  and delete them.
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+## Technologies used
+React.js (UI library)
+Express.js (Server framework)
+Node.js (JavaScript enviornment)
+MongoDB (NoSQL Database)
+Mongoose (ODM)
+Bootstrap (Front-end framework)
+Heroku (Cloud platform)
+mLab (Heroku MongoDB add-on)
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+## Getting Started
+To view the site as deployed on Heroku, you can visit [here](https://sheltered-spire-56080.herokuapp.com/).
 
-## Starting the app locally
+If you would like to run the site locally,  follow the steps below:
 
-Start by installing front and backend dependencies. While in this directory, run the following command:
+If you have not set up MongoDB to run as a service, run mongod in a terminal window. Leave this window running and open a new window.
+Clone this repository to your machine with git clone 
+Navigate to the cloned directory.
+Run yarn install to install required packages and dependencies.
+Run yarn start
+The application will be running at localhost:3000/.
 
-```
-yarn install
-```
 
-This should install node modules within the server and the client folder.
 
-After both installations complete, run the following command in your terminal:
 
-```
-yarn start
-```
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
 
-## Deployment (Heroku)
 
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+
