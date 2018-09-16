@@ -4,14 +4,14 @@
 Full stack Application using React for searching articles from New York Times API's, And save them, with the ability to Show saved articles  and delete them.
 
 ## Technologies used
-React.js (UI library)
-Express.js (Server framework)
-Node.js (JavaScript enviornment)
-MongoDB (NoSQL Database)
-Mongoose (ODM)
-Bootstrap (Front-end framework)
-Heroku (Cloud platform)
-mLab (Heroku MongoDB add-on)
+* React.js (UI library)
+* Express.js (Server framework)
+* Node.js (JavaScript enviornment)
+* MongoDB (NoSQL Database)
+* Mongoose (ODM)
+* Bootstrap (Front-end framework)
+* Heroku (Cloud platform)
+* mLab (Heroku MongoDB add-on)
 
 ## Getting Started
 To view the site as deployed on Heroku, you can visit [here](https://sheltered-spire-56080.herokuapp.com/).
